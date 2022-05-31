@@ -7,5 +7,6 @@ My name is Omar, I illegally changed my name to TechTycho.
 - 🔨 I'm currently working on Solving FrontendMentor.io Challenges.
 - 🌱 I’m currently learning JavaScript.
 - 📜 Just finished learning Advanced CSS.
+- 📕 I am also interested in learning SASS.
 - 😄 Pronouns: He.
 - ✨ Nickname: TechTycho.
