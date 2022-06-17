@@ -5,8 +5,8 @@ My name is Omar, I illegally changed my name to TechTycho.
 **Info**:
 - 🔭 My goal is to master Web Development.
 - 🔨 I'm currently working on Improving my JavaScript Skills and Solving FrontendMentor.io Challenges.
-- 🌱 I’m currently learning Bootstrap.
-- 📜 Just finished learning JavaScript.
+- 🌱 I’m currently learning Fetch API.
+- 📜 Just finished learning Bootstrap.
 - 📝 I am also interested in learning jQuery.
 - 😄 Pronouns: He.
 - ✨ Nickname: TechTycho.
