@@ -18,4 +18,4 @@ My name is Omar, I illegally changed my name to TechTycho.
 
 **Tools and Skills**:
 
-<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="Linux" />
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" />
