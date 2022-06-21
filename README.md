@@ -20,4 +20,6 @@ My name is Omar, I illegally changed my name to TechTycho.
 
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" />
 
+**Stats**:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=techtycho&show_icons=true&locale=en&layout=compact&bg_color=161B22&border_color=30363d&text_color=fff&title_color=c9d1d9&exclude_repo=dotfiles)
