@@ -11,6 +11,10 @@ My name is Omar, I illegally changed my name to TechTycho.
 - 😄 Pronouns: He.
 - ✨ Nickname: TechTycho.
 
+**Top Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=techtycho&show_icons=true&locale=en&layout=compact&bg_color=161B22&border_color=30363d&text_color=fff&title_color=c9d1d9&exclude_repo=dotfiles)
+
 **Languages and Technologies**:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="50" title="HTML" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50" title="CSS" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" height="40" title="JavaScript" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="40" title="Sass" /> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" height="40" title="Bootstrap" />
@@ -19,9 +23,3 @@ My name is Omar, I illegally changed my name to TechTycho.
 **Tools and Skills**:
 
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" />
-
-**Stats**:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=techtycho&show_icons=true&bg_color=161B22&border_color=30363d&text_color=fff&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=techtycho&show_icons=true&locale=en&layout=compact&bg_color=161B22&border_color=30363d&text_color=fff&title_color=c9d1d9&exclude_repo=dotfiles)
-
