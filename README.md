@@ -11,8 +11,6 @@ My name is Omar, I illegally changed my name to TechTycho.
 - 😄 Pronouns: He.
 - ✨ Nickname: TechTycho.
 
-**Top Languages**
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=techtycho&show_icons=true&locale=en&layout=compact&bg_color=161B22&border_color=30363d&text_color=fff&title_color=c9d1d9&exclude_repo=dotfiles)
 
 **Languages and Technologies**:
