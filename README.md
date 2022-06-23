@@ -1,5 +1,3 @@
-<img align="right" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
-
 ### Hi there 👋
 
 My name is Omar, I illegally changed my name to TechTycho.
@@ -20,5 +18,3 @@ My name is Omar, I illegally changed my name to TechTycho.
 **Tools and Skills**:
 
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" />
-
-![](https://github-readme-stats.vercel.app/api?username=techtycho&show_icons=true&locale=en&layout=compact&theme=radical)
