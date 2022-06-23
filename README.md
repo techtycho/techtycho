@@ -1,3 +1,5 @@
+![programmer](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)
+
 ### Hi there 👋
 
 My name is Omar, I illegally changed my name to TechTycho.
