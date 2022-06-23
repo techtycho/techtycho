@@ -1,4 +1,4 @@
-![programmer](https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
+<img align="right" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
 
 ### Hi there 👋
 
