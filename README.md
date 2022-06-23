@@ -1,4 +1,4 @@
-![programmer](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)
+![programmer](https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
 
 ### Hi there 👋
 
