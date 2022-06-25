@@ -4,7 +4,7 @@ My name is Omar, I illegally changed my name to TechTycho.
 
 **Info**:
 - 🔭 My goal is to master Web Development.
-- 🔨 I'm currently working on Anzemah's landing page.
+- 🔨 I'm currently working on Anzemah's website.
 - 🌱 I’m currently learning Fetch API and AJAX.
 - 📜 Just finished learning Bootstrap.
 - 📝 I am also interested in learning jQuery.
