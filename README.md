@@ -4,7 +4,7 @@ My name is Omar, I illegally changed my name to TechTycho.
 
 **Info**:
 - 🔭 My goal is to master Web Development.
-- 🔨 I'm currently working on writing my own X11 Window Manager.
+- 🔨 I'm currently working on configuring my programs.
 - 🌱 I’m currently learning React.
 - 📜 Just finished learning Fetch API and AJAX.
 - 📝 I am also interested in learning jQuery.
