@@ -21,4 +21,4 @@ My name is Omar, I illegally changed my name to TechTycho.
 
 **Other Languages and Skills**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" height="50" title="Lua" /> &nbsp; <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9f%2FVimlogo.svg%2F1200px-Vimlogo.svg.png&sp=1659742717T6841b233fd1bbd959afefbc59050164f7dd63356069ff9d80b14bceb88aa25824" height="50" title="Vim (NeoVim)" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" height="50" title="Lua" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" height="50" title="Vim (NeoVim)" />
