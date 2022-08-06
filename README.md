@@ -18,3 +18,7 @@ My name is Omar, I illegally changed my name to TechTycho.
 **Tools and Skills**:
 
 <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" />
+
+**Other Languages and Skills**
+
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fcf%2FLua-Logo.svg&sp=1659742569T7862a4d35a78195f32286173a5622f6b25c9c0e558710be66afa56ae80994e67" height="50" title="Lua" /> &nbsp; <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9f%2FVimlogo.svg%2F1200px-Vimlogo.svg.png&sp=1659742717T6841b233fd1bbd959afefc59050164f7dd63356069ff9d80b14bceb88aa25824" height="50" title="Vim (NeoVim)" />
