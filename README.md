@@ -17,7 +17,7 @@ My name is Omar, I illegally changed my name to TechTycho.
 
 **Tools and Skills**:
 
-<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" height="30" title="NPM" />
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="40" title="Git" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" height="40" title="Figma" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" height="40" title="I use Arch BTW" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" height="30" title="NPM" /> &npsp; <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height="40" title="Webpack" />
 
 **Other Languages and Skills**
 
