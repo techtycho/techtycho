@@ -22,4 +22,4 @@ My name is Omar, I illegally changed my name to TechTycho.
 **Other Languages and Skills**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" height="50" title="Lua" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" height="50" title="Vim" /> &nbsp; <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" height="50" title="Neovim" />
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" height="50" title="Neovim" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" height="50" title="Emacs" />
