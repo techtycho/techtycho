@@ -5,15 +5,15 @@ My name is Omar, I illegally changed my name to TechTycho.
 **Info**:
 - 🔭 My goal is to master Web Development.
 - 🔨 I'm currently working on AthkarWeb.
-- 🌱 I’m currently learning Webpack.
-- 📜 Just finished learning NPM.
-- 📝 I am also interested in learning Handlebars.
+- 🌱 I’m currently learning Jest.
+- 📜 Just finished learning Webpack.
+- 📝 I am also interested in learning C.
 - 😄 Pronouns: He.
 - ✨ Nickname: TechTycho.
 
 **Languages and Technologies**:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="50" title="HTML" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50" title="CSS" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" height="40" title="JavaScript" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="40" title="Sass" /> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" height="40" title="Bootstrap" /> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="40" title="React" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="50" title="HTML" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="50" title="CSS" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" height="40" title="JavaScript" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="40" title="Sass" /> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" height="40" title="Bootstrap" />
 
 **Tools and Skills**:
 
